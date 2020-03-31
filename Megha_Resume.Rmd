@@ -36,6 +36,10 @@ Skills {#skills}
 
 - R, Python, SQL, Git, Tableau
 
+R Pacakge {#package}
+--------------------------------------------------------------------------------
+
+[simhelpers 0.1.0](https://meghapsimatrix.github.io/simhelpers/index.html)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
