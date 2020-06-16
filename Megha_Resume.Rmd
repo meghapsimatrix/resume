@@ -56,7 +56,7 @@ Main
 Megha Joshi {#title}
 --------------------------------------------------------------------------------
 
-Experienced statistician with strong background in causal inference. I drive impact and growth by infusing businesses and teams with data-driven insights and scientifically-driven solutions. 
+Experienced statistician with strong background in causal inference. I drive impact and growth by infusing teams with data-driven insights and scientifically-driven solutions. 
 
 
 Experience {data-icon=laptop}

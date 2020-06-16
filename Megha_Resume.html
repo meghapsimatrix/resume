@@ -7,16 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Megha" />
-    <meta name="date" content="2020-03-31" />
+    <meta name="date" content="2020-06-16" />
     <title>Megha’s resume</title>
 
     
         <link href="Megha_Resume_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
     <link href="Megha_Resume_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-    <link href="Megha_Resume_files/paged-0.6.2/css/resume.css" rel="stylesheet" />
-    <script src="Megha_Resume_files/paged-0.6.2/js/config.js"></script>
-    <script src="Megha_Resume_files/paged-0.6.2/js/paged.js"></script>
-    <script src="Megha_Resume_files/paged-0.6.2/js/hooks.js"></script>
+    <link href="Megha_Resume_files/paged-0.10/css/resume.css" rel="stylesheet" />
+    <script src="Megha_Resume_files/paged-0.10/js/config.js"></script>
+    <script src="Megha_Resume_files/paged-0.10/js/paged.js"></script>
+    <script src="Megha_Resume_files/paged-0.10/js/hooks.js"></script>
     
     
   </head>
@@ -50,14 +50,14 @@
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>
 <p>This resume was made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
-<p>Last updated on 2020-03-31.</p>
+<p>Last updated on 2020-06-16.</p>
 </div>
 </div>
 <div id="main" class="section level1">
 <h1>Main</h1>
 <div id="title" class="section level2">
 <h2>Megha Joshi</h2>
-<p>Experienced statistician with strong background in causal inference. I drive impact and growth by infusing businesses and teams with data-driven insights and scientifically-driven solutions.</p>
+<p>Experienced statistician with strong background in causal inference. I drive impact and growth by infusing teams with data-driven insights and scientifically-driven solutions.</p>
 </div>
 <div id="experience" class="section level2" data-icon="laptop">
 <h2>Experience</h2>
@@ -151,8 +151,11 @@
     if (i === 0 && el.id === 'title') continue;
     el.className += ' main-block';
     if (el.dataset['concise']) el.className += ' concise';
-    s = el.dataset['icon'] || 'bookmark';
-    el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    // if there is no icon, add an icon:
+    if (el.firstElementChild.firstChild && el.firstElementChild.firstChild.nodeName !== 'I') {
+      s = el.dataset['icon'] || 'bookmark';
+      el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    }
   }
 
   // tweak class names of blocks in sections
