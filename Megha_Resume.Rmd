@@ -109,7 +109,7 @@ Austin, Texas
 
 2015 - Present
 
-- Assisted in the following courses: Data Analysis, Simulation, Programming in R; Research Design; and, Statistics in Market Analysis. 
+- Assisted in the following courses: Causal Inference; Data Analysis, Simulation, and Programming in R; Research Design; and, Statistics in Market Analysis. 
 - Effectively communicated complex statistical methods to students with little prior background in the field. 
 
 
