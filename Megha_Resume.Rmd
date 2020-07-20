@@ -56,10 +56,8 @@ Main
 Megha Joshi {#title}
 --------------------------------------------------------------------------------
 
-Experienced statistician with strong background in causal inference. I drive impact and growth by infusing teams with data-driven insights and scientifically-driven solutions. 
 
-
-Experience {data-icon=laptop}
+Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### Graduate Research Assistant
@@ -72,6 +70,7 @@ Austin, Texas
 
 - Developed generalized boosted models to estimate propensity scores to evaluate the impact of a college preparatory program. 
 - Integrated large relational datasets containing information on all students in Texas schools from multiple sources. Wrangled the data for analysis.
+- Created technical reports on the findings; communicated findings to stakeholders. 
 
 ### Graduate Research Assistant
 
