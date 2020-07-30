@@ -126,7 +126,7 @@ Austin, Texas
 
 2020 (expected)
 
-Thesis: Cluster wild bootstrapping to handle dependent effect sizes in meta-analysis
+Thesis: Cluster wild bootstrapping to handle dependent effect sizes in meta-analysis with small sample sizes
 
 
 ### Bryn Mawr College
