@@ -56,6 +56,7 @@ Main
 Megha Joshi {#title}
 --------------------------------------------------------------------------------
 
+Experienced statistician with strong background in causal inference. I drive impact and growth by infusing teams with data-driven insights. 
 
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -69,7 +70,7 @@ Austin, Texas
 2020 - Present
 
 - Created surveys to collect information on the impact of COVID-19 outbreak on students, faculty and staff at the College of Education. 
-- Cleaned and analyzed the data and created reports to be disseminated to the College of Education.
+- Created reports to be disseminated to the College of Education.
 - Collaborated with team members and delegated data-analytic tasks.
  
 
