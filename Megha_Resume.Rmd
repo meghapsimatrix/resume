@@ -30,7 +30,7 @@ Skills {#skills}
 
 - Statistical analysis and data vizualization
 
-- Causal inference, experimental design, and missing data analysis
+- Causal inference, experimental design, meta-analysis, and missing data analysis
 
 - Machine learning
 
