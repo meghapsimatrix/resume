@@ -175,7 +175,7 @@ Austin, TX
 _Supervisors: Dr. Pedro Reyes & Dr. Celeste D. Alexander_
 
 - Assisted in an initiative started by Dean Charles Martinez to study the effects of Teacher Preparation Programs (TPPs) on teacher retention in Texas. 
-- Integrated large relational datasets from Texas Education Agency and State Board for Educator Certification. Access to the data was provided by the UT [Education Research Center](https://texaserc.utexas.edu/). 
+- Integrated large relational datasets from the Texas Education Agency and the State Board for Educator Certification. Access to the data was provided by the UT [Education Research Center](https://texaserc.utexas.edu/). 
 - Analyzed the impact of TPPs on employment and retention using linear probability model and survival analysis. 
 - Collaborated with team members and delegated data-analytic tasks.
 
@@ -205,7 +205,7 @@ Austin, TX
 _Supervisor: Dr. James E. Pustejovsky_
 
 - Evaluated the impact of a college preparatory program using propensity score analysis with generalized boosted modeling. 
-- Integrated large relational datasets containing information on all students in Texas schools from multiple sources data like Texas Education Agency and Texas Higher Education Coordinating Board. Access to the data was provided by the UT [Education Research Center](https://texaserc.utexas.edu/).
+- Integrated large relational datasets containing information on all students in Texas schools from multiple sources like the Texas Education Agency and the Texas Higher Education Coordinating Board. Access to the data was provided by the UT [Education Research Center](https://texaserc.utexas.edu/).
 - Created technical reports on the findings; communicated findings to stakeholders.
 
 
