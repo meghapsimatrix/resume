@@ -49,10 +49,12 @@ Research Interests {#skills}
 
 
 
-R Package {#package}
+R Packages {#package}
 --------------------------------------------------------------------------------
 
 [simhelpers 0.1.0](https://meghapsimatrix.github.io/simhelpers/index.html)
+
+[wildmeta 0.0.0.9000](https://meghapsimatrix.github.io/wildmeta/)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -99,7 +101,7 @@ Bryn Mawr, PA
 
 
 
-Work Experience {data-icon=laptop}
+Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### Graduate Research Assistant
@@ -220,10 +222,16 @@ Toronto, Canada
 Pituch, K. A., Whittaker, T. A., __Joshi, M.__, Park, R., & Cain M. E.  
 
 
+Training {data-icon=certificate}
+--------------------------------------------------------------------------------
 
+### What Works Clearinghouse Group Design Standards 
 
+Online Training
 
+Austin, TX
 
+2020
 
 
 
