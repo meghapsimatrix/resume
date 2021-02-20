@@ -52,7 +52,7 @@ Research Interests {#skills}
 R Packages {#package}
 --------------------------------------------------------------------------------
 
-[simhelpers 0.1.0](https://meghapsimatrix.github.io/simhelpers/index.html)
+[simhelpers 0.1.1](https://meghapsimatrix.github.io/simhelpers/index.html)
 
 [wildmeta 0.0.0.9000](https://meghapsimatrix.github.io/wildmeta/)
 
