@@ -112,8 +112,8 @@ Austin, TX
 
 2021 - Present
 
-- Conducted methodological literature review on Individual Participant Data Meta-Analysis (IPDMA) and recommended appropriate methods.
-- Consulted with analysts and research managers on solving methods related issues such as selecting appropriate cluster robust variance estimator, estimating marginal causal effects, and analyzing survey data.
+- Conducted methodological literature review on meta-analysis, wrote the analysis plan, and implemented codebase infrastructure to conduct the analyses.
+- Consulted with analysts and research managers to solve methods related issues such as selecting appropriate cluster robust variance estimator, estimating marginal causal effects, and analyzing survey data.
 
 
 
@@ -125,8 +125,8 @@ Austin, TX
 
 2021
 
-- Conducted a meta-analysis examining the extent of bias in analyses of quasi-experimental design studies that have different study characteristics.
-- Implemented code to run subgroup correlated and hierarchical effects meta-analysis.
+- Conducted a meta-analysis examining the extent of bias in analyses of quasi-experimental designs that have different study characteristics.
+- Implemented code to run meta-analytic models accounting for complex data structures.
 - Produced graphs and tables displaying the results.
 
 
