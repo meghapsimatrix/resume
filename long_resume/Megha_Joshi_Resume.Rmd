@@ -112,8 +112,9 @@ Austin, TX
 
 2021 - Present
 
-- Conducted methodological literature review on meta-analysis, wrote the analysis plan, and implemented code to conduct the analyses.
-- Consulted with analysts and research managers to solve methods related issues such as selecting appropriate cluster robust variance estimator, estimating marginal causal effects, and analyzing survey data.
+- Developed the codebase infrastructure to conduct inferential analysis on data with over a hundred million rows and data with complex structures. 
+- Designed the methodological and analytical strategy to conduct the inferential analysis. 
+- Solved methods related issues such as selecting appropriate cluster robust variance estimator, and estimating marginal causal effects.
 
 
 
@@ -127,7 +128,7 @@ Austin, TX
 
 - Conducted a meta-analysis examining the extent of bias in analyses of quasi-experimental designs that have different study characteristics.
 - Implemented code to run meta-analytic models accounting for complex data structures.
-- Produced graphs and tables displaying the results.
+- Produced graphs and tables displaying the results to be used in publications.
 
 
 ### Graduate Research Assistant
@@ -136,12 +137,12 @@ The University of Texas at Austin
 
 Austin, TX
 
-2020 - Present
+2020 - 2021
 
 - Led the methods team for a project examining the effects of teacher preparation programs on teacher retention in Texas.
 - Integrated large relational datasets from the Texas Education Agency and the State Board for Educator Certification.  
-- Conducted survival analysis to estimate the impact of the preparatory programs.
-- Drafted reports and presentations detailing the results.
+- Developed and implemented analytical strategy using survival analysis to estimate the impact of the preparatory programs.
+- Drafted reports and presentations detailing the results to be presented to a non-technical audience.
 
 
 ### Graduate Research Assistant
@@ -153,8 +154,9 @@ Austin, TX
 2017 - 2020
 
 - Evaluated the impact of a college preparatory program using propensity score analysis with generalized boosted modeling. 
-- Integrated large relational datasets from the Texas Education Agency and the Texas Higher Education Coordinating Board. 
-- Created technical reports on the findings; communicated findings to stakeholders.
+- Integrated large relational datasets from the Texas Education Agency and the Texas Higher Education Coordinating Board.
+- Developed the codebase to clean and analyze the data. 
+- Created technical reports on the findings; effectively communicated findings to stakeholders.
 
 
 
