@@ -1,0 +1,230 @@
+---
+title: "Megha's resume"
+author: "Megha"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+  knit: pagedown::knit_pdf_chrome
+---
+
+Aside
+================================================================================
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> megha.j456@utexas.edu
+- <i class="fa fa-globe"></i> [meghapsimatrix.com](https://meghapsimatrix.com/)
+- <i class="fa fa-github"></i> [github.com/meghapsimatrix](https://github.com/meghapsimatrix)
+- <i class="fa fa-phone"></i> 469-235-3003
+- <i class="fa fa-map-marker"></i> Austin, Texas
+- For more information, please contact me via email.
+
+
+Skills  {#skills}
+--------------------------------------------------------------------------------
+
+- Statistical Software: R, Python
+
+- Version Control: Git
+
+- Project Management: Asana, Trello
+
+
+Research Interests {#skills}
+-------------------------------------------------------------------------------
+
+- Causal inference
+
+- Meta-analysis
+
+- Missing data analysis
+
+- Machine learning
+
+
+
+R Packages {#package}
+--------------------------------------------------------------------------------
+
+[simhelpers 0.1.1](https://meghapsimatrix.github.io/simhelpers/index.html)
+
+[wildmeta 0.0.0.9000](https://meghapsimatrix.github.io/wildmeta/)
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Megha Joshi {#title}
+--------------------------------------------------------------------------------
+
+Experienced statistician with strong background and interest in causal inference and meta-analysis. I have five years of experience in managing and leading research projects, analyzing large, complex datasets, and communicating results effectively. 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### The University of Texas at Austin
+
+PhD in Quantitative Methods
+
+Austin, TX
+
+2021
+
+Advisors: Dr. Tasha Beretvas and Dr. James E. Pustejovsky
+
+Thesis: Cluster wild bootstrapping to handle dependent effect sizes in meta-analysis with small number of studies
+
+
+### Bryn Mawr College
+
+BA in Art History and Psychology
+
+Bryn Mawr, PA
+
+2014
+
+
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+The University of Texas at Austin 
+
+Austin, TX
+
+2017 - 2020
+
+- Evaluated the impact of a college preparatory program using propensity score analysis with generalized boosted modeling. 
+- Integrated large relational datasets from the Texas Education Agency and the Texas Higher Education Coordinating Board. 
+- Created technical reports on the findings; communicated findings to stakeholders.
+
+### Graduate Research Assistant
+
+The University of Texas at Austin 
+
+Austin, TX
+
+2020 - Present
+
+- Led the methods team for a project examining the effects of teacher preparation programs on teacher retention in Texas.
+- Integrated large relational datasets from the Texas Education Agency and the State Board for Educator Certification.  
+- Conducted survival analysis to estimate the impact of the preparatory programs.
+- Drafted reports and presentations detailing the results.
+
+### Meta-Analysis Data Scientist
+
+Analyst Institute
+
+Austin, TX
+
+2021 - Present
+
+- Conducted methodological literature review on meta-analysis, wrote the analysis plan, and implemented code to conduct the analyses.
+- Consulted with analysts and research managers to solve methods related issues such as selecting appropriate cluster robust variance estimator, estimating marginal causal effects, and analyzing survey data.
+
+
+
+### Statistical Consultant 
+
+Freelance
+
+Austin, TX
+
+2021
+
+- Conducted a meta-analysis examining the extent of bias in analyses of quasi-experimental designs that have different study characteristics.
+- Implemented code to run meta-analytic models accounting for complex data structures.
+- Produced graphs and tables displaying the results.
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Graduate Teaching Assistant
+
+The University of Texas at Austin
+
+Austin, TX
+
+2015 - Present
+
+- Assisted in the following courses: Causal Inference; Data Analysis, Simulation and Programming in R; Research Design; Survey of Multivariate Methods; Fundamental Statistics; and Statistics in Market Analysis.
+- Effectively communicated complex statistical methods to students with little prior background in the field. 
+
+
+Publications and Technical Papers {data-icon=book}
+--------------------------------------------------------------------------------
+
+### [Direct ties to a faculty mentor related to positive outcomes for undergraduate researchers](https://doi.org/10.1093/biosci/biz039) 
+
+_BioScience_, Volume 69, Issue 5, Pages 389–397
+
+N/A
+
+2019
+
+__Joshi, M.__, Aikens, M. L., & Dolan, E. L. 
+
+
+
+### [The performance of multivariate methods for two-group comparisons with 	small samples and incomplete data](https://doi.org/10.1080/00273171.2019.1667217) 
+
+_Multivariate Behavioral Research_, Pages 1-18
+
+N/A
+
+2019
+
+Pituch, K. A., __Joshi, M.__, Cain, M. E., Whittaker, T. A., Chang, W., Park, R., & McDougall, G. J. 
+
+
+### [Evaluating the Transition to College Mathematics course in Texas high schools: Findings from the first year of implementation](https://www.greatertexasfoundation.org/wp-content/uploads/2019/06/Pustejovsky-Final-2019.pdf)
+
+_Greater Texas Foundation_
+
+N/A
+
+2019
+
+Pustejovsky, J. E., & __Joshi, M.__ 
+
+
+Selected Conference Presentations {data-icon=group}
+--------------------------------------------------------------------------------
+
+### Cluster wild bootstrapping to handle dependent effect sizes in meta analyses with small numbers of studies
+
+Poster session at the American Educational Research Association annual meeting
+
+Toronto, Canada
+
+2019
+
+__Joshi, M.__, Cappelli, P., Pustejovsky, J. E., & Beretvas, S. N. 
+
+
+
+
+
+
+
+
+
