@@ -99,7 +99,7 @@ Bryn Mawr, PA
 
 
 
-Research Experience {data-icon=laptop}
+Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### Quantitative Researcher
