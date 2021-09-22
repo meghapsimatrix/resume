@@ -102,13 +102,26 @@ Bryn Mawr, PA
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Quantitative Researcher
+
+American Institutes for Research
+
+Austin, TX
+
+2021 - Present
+
+- Develop methodological strategies for projects using causal inference and meta-analysis. Conduct the analyses.
+- Clean and merge data with millions of rows. 
+- Create a Shiny app for users to run meta-analysis and create visualizations of research evidence. 
+
+
 ### Data Scientist
 
 Analyst Institute
 
 Austin, TX
 
-2021 - Present
+2021 
 
 - Developed the codebase infrastructure to conduct inferential analysis on data with over a hundred million rows and data with complex structures. 
 - Designed the methodological and analytical strategy to conduct the inferential analysis. 
@@ -138,25 +151,10 @@ Austin, TX
 2020 - 2021
 
 - Led the methods team for a project examining the effects of teacher preparation programs on teacher retention in Texas.
-- Integrated large relational datasets.
-- Developed and implemented analytical strategy using survival analysis to estimate the impact of the preparatory programs.
-- Produced reports and presentations detailing the results to be presented to a non-technical audience.
-
-
-### Graduate Research Assistant
-
-The University of Texas at Austin 
-
-Austin, TX
-
-2017 - 2020
-
 - Evaluated the impact of a college preparatory program using propensity score analysis with generalized boosted modeling. 
 - Integrated large relational datasets.
-- Developed the codebase to clean and analyze the data. 
-- Created technical reports on the findings; effectively communicated findings to stakeholders.
-
-
+- Developed and implemented the analytical strategy.
+- Produced reports and presentations detailing the results to be presented to a non-technical audience.
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
