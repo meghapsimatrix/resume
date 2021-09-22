@@ -112,7 +112,7 @@ Austin, TX
 
 - Develop methodological strategies for projects using causal inference and meta-analysis. Conduct the analyses.
 - Clean and merge data with millions of rows. 
-- Create a Shiny app for users to run meta-analysis and create visualizations of research evidence. 
+- Create a Shiny app for users to run meta-analyses and plot research evidence gaps. 
 
 
 ### Data Scientist
