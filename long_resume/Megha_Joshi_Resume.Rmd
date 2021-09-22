@@ -148,7 +148,7 @@ The University of Texas at Austin
 
 Austin, TX
 
-2020 - 2021
+2016 - 2021
 
 - Led the methods team for a project examining the effects of teacher preparation programs on teacher retention in Texas.
 - Evaluated the impact of a college preparatory program using propensity score analysis with generalized boosted modeling. 
@@ -166,7 +166,7 @@ The University of Texas at Austin
 
 Austin, TX
 
-2015 - Present
+2015 - 2021
 
 - Assisted in the following courses: Causal Inference; Data Analysis, Simulation and Programming in R; Research Design; Survey of Multivariate Methods; Fundamental Statistics; and Statistics in Market Analysis.
 - Led weekly problem-solving sessions through office hours; effectively communicated complex statistical methods to students; and, fostered interest in methodological research.
