@@ -209,18 +209,6 @@ N/A
 Pustejovsky, J. E., & __Joshi, M.__ 
 
 
-Selected Conference Presentations {data-icon=group}
---------------------------------------------------------------------------------
-
-### Cluster wild bootstrapping to handle dependent effect sizes in meta analyses with small numbers of studies
-
-Poster session at the American Educational Research Association annual meeting
-
-Toronto, Canada
-
-2019
-
-__Joshi, M.__, Cappelli, P., Pustejovsky, J. E., & Beretvas, S. N. 
 
 
 
