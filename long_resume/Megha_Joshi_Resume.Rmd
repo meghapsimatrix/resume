@@ -50,9 +50,10 @@ Research Interests {#skills}
 R Packages {#package}
 --------------------------------------------------------------------------------
 
-[simhelpers 0.1.1](https://meghapsimatrix.github.io/simhelpers/index.html)
-
 [wildmeta 0.1.0](https://meghapsimatrix.github.io/wildmeta/)
+
+[simhelpers 0.1.2](https://meghapsimatrix.github.io/simhelpers/index.html)
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -174,6 +175,16 @@ Austin, TX
 
 Publications and Technical Papers {data-icon=book}
 --------------------------------------------------------------------------------
+
+### [Cluster wild bootstrapping to handle dependent effect sizes in meta-analysis with a small number of studies](https://doi.org/10.1002/jrsm.1554) 
+
+_Research Synthesis Methods_
+
+N/A
+
+2022
+
+__Joshi, M.__, Pustejovsky, J. E., & Beretvas, S. N. 
 
 ### [Direct ties to a faculty mentor related to positive outcomes for undergraduate researchers](https://doi.org/10.1093/biosci/biz039) 
 
