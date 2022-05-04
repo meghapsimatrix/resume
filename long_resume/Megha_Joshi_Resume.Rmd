@@ -18,7 +18,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> megha.j456@utexas.edu
+- <i class="fa fa-envelope"></i> megha.j456@gmail.com
 - <i class="fa fa-globe"></i> [meghapsimatrix.com](https://meghapsimatrix.com/)
 - <i class="fa fa-github"></i> [github.com/meghapsimatrix](https://github.com/meghapsimatrix)
 - <i class="fa fa-phone"></i> 469-235-3003
@@ -113,7 +113,7 @@ Austin, TX
 
 - Develop methodological strategies for projects using causal inference and meta-analysis. Conduct the analyses.
 - Clean and merge data with millions of rows. 
-- Create a Shiny app for users to run meta-analyses and plot research evidence gaps. 
+- Create a [Shiny app](https://airshinyapps.shinyapps.io/mosaic_egm/) for users to run meta-analyses and plot research evidence gaps. 
 
 
 ### Data Scientist
