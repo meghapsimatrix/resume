@@ -50,7 +50,7 @@ Research Interests {#skills}
 R Packages {#package}
 --------------------------------------------------------------------------------
 
-[wildmeta 0.1.0](https://meghapsimatrix.github.io/wildmeta/)
+[wildmeta 0.2.0](https://meghapsimatrix.github.io/wildmeta/)
 
 [simhelpers 0.1.2](https://meghapsimatrix.github.io/simhelpers/index.html)
 
@@ -70,7 +70,7 @@ Main
 Megha Joshi {#title}
 --------------------------------------------------------------------------------
 
-Experienced statistician with strong background and interest in causal inference and meta-analysis. I have six years of experience in managing and leading research projects, developing analytic strategy, analyzing large, complex datasets, and communicating results effectively. 
+Experienced statistician with strong background and interest in causal inference and meta-analysis. I have seven years of experience in managing and leading research projects, developing analytic strategy, analyzing large, complex datasets, and communicating results effectively. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
