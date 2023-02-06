@@ -113,7 +113,8 @@ Austin, TX
 
 - Develop methodological strategies for projects using causal inference and meta-analysis. Conduct the analyses.
 - Clean and merge data with millions of rows. 
-- Create a [Shiny app](https://airshinyapps.shinyapps.io/mosaic_egm/) for users to run meta-analyses and plot research evidence gaps. 
+- Conduct methodological studies to examine performance of different statistical methods.
+- Created a [Shiny app](https://airshinyapps.shinyapps.io/mosaic_egm/) for users to run meta-analyses and plot research evidence gaps. 
 
 
 ### Data Scientist
