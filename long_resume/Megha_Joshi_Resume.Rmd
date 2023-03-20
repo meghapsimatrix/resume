@@ -70,7 +70,7 @@ Main
 Megha Joshi {#title}
 --------------------------------------------------------------------------------
 
-Experienced statistician with strong background and interest in causal inference and meta-analysis. I have seven years of experience in managing and leading research projects, developing analytic strategy, analyzing large, complex datasets, and communicating results effectively. 
+Experienced methodologist with strong background and interest in causal inference and meta-analysis. I have eight years of experience in managing and leading research projects, developing analytic strategy, analyzing large, complex datasets, and communicating results effectively. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
