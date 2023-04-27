@@ -70,7 +70,7 @@ Main
 Megha Joshi {#title}
 --------------------------------------------------------------------------------
 
-Experienced methodologist with strong background and interest in causal inference and meta-analysis. I have eight years of experience in managing and leading research projects, developing analytic strategy, analyzing large, complex datasets, and communicating results effectively. 
+Experienced statistician with strong background and interest in causal inference and meta-analysis. I have eight years of experience in managing and leading research projects, developing analytic strategy, analyzing large, complex datasets, and communicating results effectively. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -173,7 +173,7 @@ Austin, TX
 - Led weekly problem-solving sessions through office hours; effectively communicated complex statistical methods to students; and, fostered interest in methodological research.
 
 
-Publications and Technical Papers {data-icon=book}
+Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
 ### [Cluster wild bootstrapping to handle dependent effect sizes in meta-analysis with a small number of studies](https://doi.org/10.1002/jrsm.1554) 
