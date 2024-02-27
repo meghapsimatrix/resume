@@ -15,6 +15,7 @@ Aside
 
 
 
+
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
@@ -22,32 +23,37 @@ Contact Info {#contact}
 - <i class="fa fa-globe"></i> [meghapsimatrix.com](https://meghapsimatrix.com/)
 - <i class="fa fa-github"></i> [github.com/meghapsimatrix](https://github.com/meghapsimatrix)
 - <i class="fa fa-phone"></i> 469-235-3003
+- <i class="fa fa-map-marker"></i> Austin, Texas
 - For more information, please contact me via email.
 
 
-Skills {#skills}
+Skills  {#skills}
 --------------------------------------------------------------------------------
 
-- Statistical analysis and data vizualization
+- Statistical Software: R, Python
 
-- Causal inference, experimental design, meta-analysis, and missing data analysis
+- Version Control: Git
+
+- Project Management: Asana, Trello
+
+
+Research Interests {#skills}
+-------------------------------------------------------------------------------
+
+- Causal inference
+
+- Meta-analysis
 
 - Machine learning
 
-- R, Python, SQL, Git, Tableau
 
-R Package {#package}
+
+R Packages {#package}
 --------------------------------------------------------------------------------
 
-[simhelpers 0.1.0](https://meghapsimatrix.github.io/simhelpers/index.html)
+[wildmeta 0.3.2](https://meghapsimatrix.github.io/wildmeta/)
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
-
+[simhelpers 0.1.2](https://meghapsimatrix.github.io/simhelpers/index.html)
 
 
 Main
@@ -61,47 +67,44 @@ Experienced statistician with strong background in causal inference. I drive imp
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Quantitative Researcher
+
+American Institutes for Research
+
+Austin, TX
+
+2021 - Present
+
+- Leads quantitative impact analyses by developing methodological strategies for projects using causal inference and meta-analysis. Conducts the analyses and mentors junior staff.
+- Conducts methodological studies to examine performance of different statistical methods.
+
+
+
+### Data Scientist
+
+Analyst Institute
+
+Austin, TX
+
+2021 
+
+- Developed the codebase infrastructure to conduct inferential analysis on data with over a hundred million rows and data with complex structures. 
+- Designed the methodological and analytical strategy to conduct the inferential analysis. 
+- Solved methods related issues such as selecting appropriate cluster robust variance estimator, and estimating marginal causal effects.
+
+
+
 ### Graduate Research Assistant
 
 The University of Texas at Austin 
 
-Austin, Texas
+Austin, TX
 
-2020 - Present
+2016 - 2021
 
-- Created surveys to collect information on the impact of COVID-19 outbreak on students, faculty and staff at the College of Education. 
-- Collaborated with team members and delegated data-analytic tasks.
-- Generated reports to be disseminated to the College of Education.
-
-
-### Graduate Research Assistant
-
-The University of Texas at Austin 
-
-Austin, Texas
-
-2017 - Present
-
-- Evaluated the impact of a college preparatory program using propensity score analysis with generalized boosted modeling. 
-- Integrated large relational datasets containing information on all students in Texas schools from multiple sources. Wrangled the data for analysis.
-- Created technical reports on the findings; communicated findings to stakeholders.
-
-
-### Integrated Community Development Intern
-
-A Glimmer of Hope Foundation
-
-Austin, Texas
-
-2015- 2016
-
-- Analyzed data related to health, education, water, sanitation, and micro-finance projects carried out by the organization in Ethiopia.
-- Developed a method to estimate the number of people who have benefited from the projects.
+- Led the methods team for program evaluation projects. Developed and implemented the analytical strategy. Delegated analytic tasks and mentored junior staff.
+- Produced reports and presentations detailing the results to be presented to a non-technical audience.
   
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
 
 ### Graduate Teaching Assistant
 
