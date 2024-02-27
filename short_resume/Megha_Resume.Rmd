@@ -110,7 +110,7 @@ Austin, TX
 
 The University of Texas at Austin
 
-Austin, Texas
+Austin, TX
 
 2015 - Present
 
@@ -125,7 +125,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 PhD in Quantitative Methods
 
-Austin, Texas
+Austin, TX
 
 2021
 
@@ -135,7 +135,7 @@ Austin, Texas
 
 BA in Art History and Psychology
 
-Bryn Mawr, Pennsylvania
+Bryn Mawr, PA
 
 2014
 
