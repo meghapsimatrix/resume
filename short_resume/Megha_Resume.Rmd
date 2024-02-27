@@ -53,7 +53,7 @@ R Packages {#package}
 
 [wildmeta 0.3.2](https://meghapsimatrix.github.io/wildmeta/)
 
-[simhelpers 0.1.2](https://meghapsimatrix.github.io/simhelpers/index.html)
+[simhelpers 0.2.0](https://meghapsimatrix.github.io/simhelpers/index.html)
 
 
 Main
@@ -75,7 +75,7 @@ Austin, TX
 
 2021 - Present
 
-- Leads quantitative impact analyses by developing methodological strategies for projects using causal inference and meta-analysis. Conducts the analyses and mentors junior staff.
+- Leads quantitative impact analyses by developing methodological strategies for projects using causal inference, machine learning, and meta-analysis. Conducts the analyses and mentors junior staff.
 - Conducts methodological studies to examine performance of different statistical methods.
 
 
@@ -89,7 +89,7 @@ Austin, TX
 2021 
 
 - Developed the codebase infrastructure to conduct inferential analysis on data with over a hundred million rows and data with complex structures. 
-- Designed the methodological and analytical strategy to conduct the inferential analysis. 
+- Designed the analytical strategy to conduct the inferential analysis. 
 - Solved methods related issues such as selecting appropriate cluster robust variance estimator, and estimating marginal causal effects.
 
 

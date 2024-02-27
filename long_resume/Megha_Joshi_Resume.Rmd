@@ -52,7 +52,7 @@ R Packages {#package}
 
 [wildmeta 0.3.2](https://meghapsimatrix.github.io/wildmeta/)
 
-[simhelpers 0.1.2](https://meghapsimatrix.github.io/simhelpers/index.html)
+[simhelpers 0.2.0](https://meghapsimatrix.github.io/simhelpers/index.html)
 
 
 Disclaimer {#disclaimer}
@@ -60,7 +60,6 @@ Disclaimer {#disclaimer}
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
 
 
 
